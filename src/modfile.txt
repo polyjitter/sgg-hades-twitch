@@ -1,0 +1,6 @@
+-: Twitch Integration - 
+    polyjitter (taciturasa/adriene) - 
+  Adds various Twitch integration features to Hades.
+  Installation:
+    TODO
+:-
